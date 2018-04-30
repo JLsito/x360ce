@@ -58,6 +58,7 @@ Items in these lists are in need of testing with the new hookmask system (DO NOT
   1. Virtua Tennis 2009
   1. X-Blades
   1. X-Men Origins - Wolverine
+  1. Sonic Mania (uses xinput9_1_0.dll)
 
 ## Compatibility Mode
 
